@@ -1,7 +1,7 @@
 ---
 title: Python模块解析 - SocketServer模块
 date: 2016-04-02 19:03
-tags: [Python,SocketServer]
+tags: [Python,Web,TECH]
 show_copyright : true
 ---
 之前看python网络编程那一块的时候,有学习SocketServer的代码,上网有查过这个lib的用法,但是发觉不看source code的话很难真正厘清内部的运作.所以这篇博文主要从一个简单的例子从原码的角度做分析整个SocketServer类的解析.

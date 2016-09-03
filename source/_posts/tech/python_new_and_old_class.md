@@ -1,7 +1,8 @@
 ---
 title: Python新式类和经典类的继承区别
 date: 2015-12-12 19:03
-tags: [Python]
+tags: [Python,TECH]
+show_copyright : true
 ---
 ## 写法区别
 经典类写法:
@@ -75,5 +76,4 @@ tt.sayhello()
 ## 结语
 因为新旧类的区别,所以在多类继承的时候同名方法的处理要注意了
 
-That's all,Thank U
-<<<<<<<<<<<<<<<<<<<<<<<<原创！欢迎转载>>>>>>>>>>>>>>>>>>>>>>>>>>>
+That's all,Thank you

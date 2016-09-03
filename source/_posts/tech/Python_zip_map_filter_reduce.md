@@ -1,7 +1,7 @@
 ---
 title: Python函数式编程 - zip| map| filter| reduce
 date: 2016-07-13 19:21
-tags: [Python,函数式编程]
+tags: [Python,函数式编程,TECH]
 show_copyright : true
 ---
 Python中有很多函数式编程的方法,本文介绍的是最常见的几个函数

@@ -1,7 +1,7 @@
 ---
 title: Python模块解析 - optparser模块
 date: 2016-02-11 19:03
-tags: [Python,optparser]
+tags: [Python,TECH]
 show_copyright : true
 ---
 最近博主有用到`optparser`这个module,其对命令行的参数解析功能还是很强大的

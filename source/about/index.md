@@ -3,9 +3,9 @@ title: About
 date: 2016-06-10 20:03
 layout: photo
 photos:
-- http://ww1.sinaimg.cn/mw690/81b78497jw1emfgwkasznj21hc0u0qb7.jpg
+- https://coding.net/u/jasper_xu/p/web_pic/git/raw/master/suzhou1.JPG
+- https://coding.net/u/jasper_xu/p/web_pic/git/raw/master/huqiu.JPG
 - http://ww3.sinaimg.cn/mw690/81b78497jw1emfgwjrh2pj21hc0u01g3.jpg
-- http://ww2.sinaimg.cn/mw690/81b78497jw1emfgwil5xkj21hc0u0tpm.jpg
 - http://ww3.sinaimg.cn/mw690/81b78497jw1emfgvcdn25j21hc0u0qpa.jpg
 ---
 # 关于我

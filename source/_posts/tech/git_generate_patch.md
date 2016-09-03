@@ -1,7 +1,7 @@
 ---
 title: Git生成patch的方法(diff and format-patch)
 date: 2015-02-20 16:03
-tags: [Git,patch]
+tags: [Git,TECH]
 show_copyright : true
 ---
 Git 生成patch的方法（patch就是补丁）

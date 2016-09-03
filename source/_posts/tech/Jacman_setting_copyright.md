@@ -1,7 +1,7 @@
 ---
 title: Jacman-master主题设置 - 自动添加版权声明
 date: 2016-05-13 19:21
-tags: [Hexo,Jacman]
+tags: [Hexo,TECH]
 show_copyright : true
 ---
 虽然这里不会有太多人来看，文章大多数也是自己的个人看法，鉴于自己的阅历和技术水平，难免会有纰漏。
@@ -10,6 +10,7 @@ show_copyright : true
 鉴于每次POST文章都要手动添加那一行，这个操作感觉有点反人类，所以决定添加自动在文章底部添加版权信息的功能。
 这里要感谢培豪的文章 - [Hexo - 文章版权追加](http://www.cnblogs.com/peihao/p/5365733.html)，里面为我提供了漂亮的css模板和处理的方法。
 但是可能是因为使用的主题有差(我用的是Jacman-master主题)，所以还要做部分的修改。
+<!--more-->
 
 ## 创建版权信息的内容
 在`/Jacman-master/layout/_partial/post/`下添加要show出来的版权信息，这里我们创建`auto_copyright.ejs`，内容如下

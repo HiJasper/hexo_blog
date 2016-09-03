@@ -1,7 +1,8 @@
 ---
 title: Linux命令讲解 - ftp命令简介
 date: 2015-02-02 18:03
-tags: [Linux command,ftp]
+tags: [Linux command,TECH]
+show_copyright : true
 ---
 
 ## 连接ftp服务器
@@ -43,6 +44,4 @@ mput [文件匹配规则]
 ftp> bye
 ```
 
-That's all,Thank U
-
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<原创！欢迎转载>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+That's all,Thank you

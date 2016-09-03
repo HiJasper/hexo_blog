@@ -1,7 +1,7 @@
 ---
 title: Python中关键字yield有什么作用
 date: 2016-06-10 17:03
-tags: [别人说,Python,yield]
+tags: [拿来主义,Python,TECH]
 ---
 本文转自[Python中关键字yield有什么作用?](https://taizilongxu.gitbooks.io/stackoverflow-about-python/content/1/README.html)
 ***

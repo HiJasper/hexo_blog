@@ -1,7 +1,7 @@
 ---
 title: Frame Buffer控制嵌入式设备显示屏
 date: 2015-07-20 20:03
-tags: [Linux kernel]
+tags: [Linux kernel,TECH]
 show_copyright : true
 ---
 最近一段时间因为工作的原因,开始接触android和linux内核的一些东西.

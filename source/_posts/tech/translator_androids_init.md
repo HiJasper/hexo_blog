@@ -1,7 +1,8 @@
 ---
 title: Android init.rc的readme.txt翻译
 date: 2015-07-25 16:03
-tags: [Translator]
+tags: [Translator,TECH]
+show_copyright : true
 ---
 这是一篇自己胡乱翻译的,翻译的可能会有错误,但是以自己目前对kernel的了解只能做到这样了,希望以后自己会有所成长,然后再次看到这篇翻译的时候莞尔一笑.
 
@@ -172,6 +173,4 @@ init.svc.<name>
 等于指定service的当前状态(包括"stopped", "running", "restarting")
 ```
 
-That's all,Thank U
-
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<原创！欢迎转载>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+That's all,Thank you
